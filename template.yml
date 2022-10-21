@@ -1,0 +1,7 @@
+language: csharp
+fprocess: dotnet ./root.dll
+welcome_message: |
+  You have created a C# .Net 6 Aspnet Application.
+
+  To include third-party dependencies edit your .csproj file or install
+  Nuget packages manually.

@@ -1,4 +1,4 @@
-language: csharp
+language: net6-aspnet
 fprocess: dotnet ./root.dll
 welcome_message: |
   You have created a C# .Net 6 Aspnet Application.
